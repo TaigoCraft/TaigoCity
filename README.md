@@ -1,2 +1,0 @@
-# TaigoCity
-TaigoCity
